@@ -1,0 +1,5 @@
+vendedor = input('Nome do vendedor: ')
+SalFixo = float(input('Salario Fixo: '))
+ValorVendas = float(input('Valor de vendas: '))
+salario = SalFixo + (ValorVendas * 0.15)
+print('Nome do funcionario: ', vendedor, '\nSalario Fixo: ', SalFixo, '\nSalario Total: ', salario)
