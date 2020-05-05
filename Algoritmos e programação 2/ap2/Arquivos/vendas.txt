@@ -1,0 +1,13 @@
+Produto,Quantidade
+Pao,5
+Margarina,1
+Geleia,1
+Refrigerante,2
+Pao,3
+Leite,1
+Iogurte,1
+Pao,4
+Chocolate,2
+Chocolate,1
+Pao,5
+Leite,2

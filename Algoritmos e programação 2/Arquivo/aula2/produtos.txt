@@ -1,0 +1,6 @@
+produtos
+ovos
+leite*
+manteiga*
+margarina
+queijo*

@@ -1,0 +1,6 @@
+Produtos:
+Refrigerante,9
+Suco,4
+Agua,7
+Cafe,7
+Chocolate,0

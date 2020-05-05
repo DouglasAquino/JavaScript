@@ -1,0 +1,16 @@
+X  A B C D E F G H I J
+0 L O O L L L L L L L
+1 L L O L L L L L L L
+2 L L L L L L L L L L
+3 L L O L L L L L L L
+4 L O O L L O L L L L
+5 L L O L L L L O O L
+6 L L L L L L L L L L
+7 L O L L O L L O L O
+8 L L L L O L L L O O
+9 L L L L O L L L O O
+10 O O O L L L L L L L
+11 L L L L L L L L L L
+12 L L L L L O O O L L
+13 L L L O O L O L O L
+14 L L O L O L O O O L

@@ -1,0 +1,9 @@
+Refrigerante,2
+Suco,3
+Agua,4
+Refrigerante,1
+Agua,2
+Agua,1
+Refrigerante,5
+Cafe,3
+Cafe,4
