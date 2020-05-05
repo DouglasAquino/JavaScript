@@ -1,3 +1,0 @@
-Pedro 6.5 7 78 Aprovado
-Joaquim 6 5 76 Recuperação
-Mario 5 6.3 65 Reprovado

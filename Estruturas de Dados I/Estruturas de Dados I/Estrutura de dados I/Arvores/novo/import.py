@@ -1,0 +1,13 @@
+import Ldse
+l=Ldse.Ldse()
+##l.inserirFim('B')
+##l.inserirFim('C')
+##l.inserirFim('a')
+##l.inserirFim('H')
+##l.show()
+##l.removerFim()
+##print("Ult:",l.getUlti())
+##print("Vazia:",l.estaVazia())
+##print("Cheia",l.estaCheia())
+##l.show()
+print(l.estaVazia())

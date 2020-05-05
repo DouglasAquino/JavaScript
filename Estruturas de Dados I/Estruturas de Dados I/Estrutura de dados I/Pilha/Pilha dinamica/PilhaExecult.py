@@ -1,0 +1,10 @@
+import Pilha
+P=Pilha.Pilha()
+P.inserir('A')
+P.inserir('B')
+P.inserir('C')
+P.inserir('D')
+P.show()
+print('')
+P.remover()
+P.show()

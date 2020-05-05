@@ -1,4 +1,0 @@
-Triangulo,4,5,10.0
-Retangulo,4,4,16.0
-Circulo,6,113.0
-Quadrado,7,49.0

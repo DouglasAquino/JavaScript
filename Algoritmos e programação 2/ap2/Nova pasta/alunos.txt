@@ -1,7 +1,0 @@
-Alunos
-Ana,F
-Paulo,M
-Lucia,F
-Mauro,M
-Bianca,F
-Luana,F

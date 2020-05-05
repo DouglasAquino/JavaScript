@@ -1,5 +1,0 @@
-Produtos:
-Refrigerante,8
-Suco,3
-Agua,7
-Cafe,7
